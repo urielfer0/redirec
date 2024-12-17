@@ -1,9 +1,8 @@
-{
-  "redirects": [
+}
+  "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://fastlovematch.com",
-      "statusCode": 301
+      "destination": "/index.html"
     }
   ]
 }
